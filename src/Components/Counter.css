@@ -1,0 +1,20 @@
+.count-container {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.count-text {
+  font-size: 5em;
+  margin: 1em;
+}
+
+.count-btn {
+  font-size: 3em;
+  padding: 0.5em;
+  background-color: #dda747;
+  border: none;
+  border-radius: 0.1em;
+  cursor: pointer;
+}

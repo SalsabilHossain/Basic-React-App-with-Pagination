@@ -1,0 +1,26 @@
+[
+  {
+    "name": "name",
+    "email": "name@gmail.com",
+    "phone": "2222",
+    "gender": "male"
+  },
+  {
+    "name": "last name",
+    "email": "noo@gmail.com",
+    "phone": "12233",
+    "gender": "male"
+  },
+  {
+    "name": "zub",
+    "email": "nosds@gmail.com",
+    "phone": "299999999",
+    "gender": "male"
+  },
+  {
+    "name": "salsa",
+    "email": "pro@gmail.com",
+    "phone": "9210190",
+    "gender": "female"
+  }
+]
